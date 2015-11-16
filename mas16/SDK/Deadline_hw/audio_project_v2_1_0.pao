@@ -1,0 +1,11 @@
+##############################################################################
+## Filename:          D:/NTU/1_Embedded_sys_design/Project_2/mas16/pcores/audio_project_v1_00_a/data/audio_project_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sun Oct 11 21:58:41 2015 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_slave_burst_v1_00_a  all 
+lib audio_project_v1_00_a user_logic verilog
+lib audio_project_v1_00_a fftip verilog
+lib audio_project_v1_00_a audio_project vhdl

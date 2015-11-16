@@ -1,0 +1,5 @@
+/* 6151 Hardware Part */
+/* NextGen Designers MAS16 */
+
+References/Discussions
+[1] Synchronization to be done between SDK and Hardware
